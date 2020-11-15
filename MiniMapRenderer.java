@@ -7,6 +7,8 @@ import java.lang.reflect.Field;
 
 /**
  * @author Comfortable_Andy
+ * 
+ * Please remove all renderer including this one before adding this to your map
  */
 
 public class MiniMapRenderer extends MapRenderer {
